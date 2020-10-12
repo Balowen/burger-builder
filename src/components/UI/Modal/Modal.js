@@ -1,4 +1,3 @@
-import { checkPropTypes } from 'prop-types'
 import React from 'react'
 
 import classes from './Modal.module.css'
